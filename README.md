@@ -1,4 +1,4 @@
-### Oii, me chamo Lucas e sou desenvolvedor Front End!
+### Olá, me chamo Lucas e sou desenvolvedor Front End!
 
 ##
 
